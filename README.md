@@ -1,4 +1,6 @@
-#Merchandise Force Automation (MFA)
+# Merchandise Force Automation (MFA)
+Flutter Merchandise Force Automation Design. This application is not completed yet. Currently, I am working on it.
+A small attempt to make an delivery app user interface in Flutter for Android and iOS. 
 
 Merchandise Force Automation (MFA) refers to a comprehensive system designed to streamline and optimize various aspects of the merchandising process, primarily within the retail industry. This innovative solution leverages technology to automate and enhance the efficiency of tasks related to product management, inventory control, sales, and overall merchandising operations. Below is a detailed description highlighting key aspects of Merchandise Force Automation:
 
